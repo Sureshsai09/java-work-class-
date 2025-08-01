@@ -1,18 +1,18 @@
 package six_class_obj_met;
 
 public class CarFactory {
-      //data 
-      String carBrand;
-      double carPrice;
-      int carReviews;
-      double carRating;
+      //data
+    String carBrand;
+    double carPrice;
+    int carReviews;
+    double carRating;
 
 
 
 
 
 
-//behaviour method task 
+//behaviour method task
 public void displayCar_shortInfo(){
     System.out.println("when hovered: ");
     System.out.println("car Brand:"+carBrand);
